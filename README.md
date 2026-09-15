@@ -6,6 +6,15 @@ found, and reports a timestamped summary.
 
 > Only scan systems that you own or have explicit permission to test.
 
+## Security Notice
+
+This repository is an educational security lab for authorized testing only. It
+is not production software and must not be used to scan systems without the
+owner's explicit permission. The project does not contain intentionally
+vulnerable services or real credentials.
+
+Do not deploy this project in production.
+
 ## Features
 
 - Accepts an IPv4 address, IPv6 address, or host name
