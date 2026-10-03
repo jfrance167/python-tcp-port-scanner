@@ -105,3 +105,17 @@ sends application data. It does not attempt to bypass security controls.
 - Service names are best-effort labels based on the local operating system's
   service database, not proof of which software is listening.
 - Results are a point-in-time observation and may change.
+
+## Repository map
+
+```text
+python-tcp-port-scanner/
+|-- .github/
+|-- .gitignore
+|-- README.md
+|-- SECURITY.md
+|-- port_scanner.py
+`-- tests/
+```
+
+Follow the setup and safety boundaries above before running or deploying any code.
